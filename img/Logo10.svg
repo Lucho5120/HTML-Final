@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 80 32"
+   height="32mm"
+   width="80mm"
+   sodipodi:docname="LOGO10.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview899"
+     showgrid="false"
+     inkscape:zoom="1.3526823"
+     inkscape:cx="151.1811"
+     inkscape:cy="60.472441"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-265)"
+     id="layer1">
+    <rect
+       y="264.98987"
+       x="0.55167466"
+       height="31.869755"
+       width="79.44117"
+       id="rect815"
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.15248941" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.4369512"
+       y="280.13724"
+       id="text1454"><tspan
+         sodipodi:role="line"
+         x="4.4369512"
+         y="280.13724"
+         id="tspan1448"
+         style="stroke-width:0.26458332"><tspan
+           x="4.4369512"
+           y="280.13724"
+           style="font-size:12.69999981px;stroke-width:0.26458332"
+           id="tspan1444">     LUIS</tspan><tspan
+           dx="0"
+           x="57.171715"
+           y="280.13724"
+           style="font-size:12.69999981px;stroke-width:0.26458332"
+           id="tspan1446" /></tspan><tspan
+         sodipodi:role="line"
+         x="4.4369512"
+         y="294.08115"
+         id="tspan1452"
+         style="stroke-width:0.26458332"><tspan
+           x="4.4369512"
+           y="294.08115"
+           style="font-size:7.05555582px;stroke-width:0.26458332"
+           id="tspan1450">HERNANDEZ FLORES</tspan></tspan></text>
+    <rect
+       y="283.63025"
+       x="4.9030838"
+       height="1.8655462"
+       width="36.222687"
+       id="rect827"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332" />
+    <rect
+       y="283.63025"
+       x="41.125759"
+       height="1.8655462"
+       width="14.924368"
+       id="rect827-0"
+       style="fill:#000080;fill-opacity:1;stroke-width:0.16983223" />
+    <rect
+       y="283.63025"
+       x="56.050125"
+       height="1.8655462"
+       width="22.85294"
+       id="rect827-3"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.21015666" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,0,243)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot865"
+       xml:space="preserve"><flowRegion
+         id="flowRegion867"><rect
+           y="52.500492"
+           x="267.93356"
+           height="65.220673"
+           width="1.1751472"
+           id="rect869" /></flowRegion><flowPara
+         id="flowPara871" /></flowRoot>    <rect
+       y="274.14285"
+       x="51.257996"
+       height="2.8997867"
+       width="3.4115138"
+       id="rect877"
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.26458332" />
+    <rect
+       y="290.68872"
+       x="75.906181"
+       height="1.620469"
+       width="2.0469081"
+       id="rect877-1"
+       style="fill:#1a1a1a;fill-opacity:1;stroke-width:0.15320587" />
+  </g>
+</svg>
